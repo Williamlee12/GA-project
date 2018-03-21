@@ -1,0 +1,1078 @@
+,ch,chamber,name,party,screen_name,state,type
+0,no,house,Blue Collar Caucus,D,BlueCollarDems,,caucus
+1,no,house,Blue Dog Coalition,D,HouseBlueDogs,,caucus
+2,no,house,Congressional Asian Pacific American Caucus,D,CAPAC,,caucus
+3,no,house,Congressional Black Caucus,D,OfficialCBC,,caucus
+4,no,house,Congressional Health Caucus,R,HealthCaucus,,caucus
+5,no,house,Congressional Pro-Choice Caucus,D,ProChoiceCaucus,,caucus
+6,no,house,Congressional Progressive Caucus,D,USProgressives,,caucus
+7,no,house,GOP Doctors Caucus,R,gopdoccaucus,,caucus
+8,no,house,Hispanic Caucus,D,HispanicCaucus,,caucus
+9,no,house,House Freedom Caucus,R,freedomcaucus,,caucus
+10,no,house,House Freedom Caucus,R,conversations,,caucus
+11,no,house,House Liberty Caucus,R,libertycaucus,,caucus
+12,no,house,LGBT Equality Caucus,D,LGBTEqCaucus,,caucus
+13,no,house,Republican Study,R,RepublicanStudy Committee,,caucus
+14,no,house,Republican Women's Policy Committee,R,LadiesGOP,,caucus
+15,no,house,Don Young,R,repdonyoung,AK,member
+16,yes,house,Don Young,R,DonYoungAK,AK,member
+17,no,house,Bradley Byrne,R,RepByrne,AL,member
+18,yes,house,Bradley Byrne,R,BradleyByrne,AL,member
+19,no,house,Gary Palmer,R,USRepGaryPalmer,AL,member
+20,yes,house,Gary Palmer,R,Palmer4Alabama,AL,member
+21,no,house,Martha Roby,R,RepMarthaRoby,AL,member
+22,yes,house,Martha Roby,R,TeamRoby,AL,member
+23,no,house,Mike Rogers,R,RepMikeRogersAL,AL,member
+24,yes,house,Mike Rogers,R,MikeRogersCamp,AL,member
+25,no,house,Mo Brooks,R,RepMoBrooks,AL,member
+26,no,house,Robert Aderholt,R,Robert_Aderholt,AL,member
+27,yes,house,Robert Aderholt,R,CongAderholt,AL,member
+28,no,house,Terri Sewell,D,RepTerriSewell,AL,member
+29,no,house,Bruce Westerman,R,RepWesterman,AR,member
+30,yes,house,Bruce Westerman,R,WestermanAR,AR,member
+31,no,house,French Hill,R,RepFrenchHill,AR,member
+32,yes,house,French Hill,R,ElectFrench,AR,member
+33,no,house,Rick Crawford,R,RepRickCrawford,AR,member
+34,yes,house,Rick Crawford,R,Crawford4Cong,AR,member
+35,no,house,Steve Womack,R,rep_stevewomack,AR,member
+36,yes,house,Steve Womack,R,womack4congress,AR,member
+37,no,house,Amata Coleman Radewagen,R,RepAmata,AS,member
+38,no,house,Andy Biggs,R,RepAndyBiggsAZ,AZ,member
+39,yes,house,Andy Biggs,R,andybiggs4az,AZ,member
+40,no,house,David Schweikert,R,RepDavid,AZ,member
+41,yes,house,David Schweikert,R,DavidSchweikert,AZ,member
+42,no,house,Kyrsten Sinema,D,RepSinema,AZ,member
+43,no,house,Martha McSally,R,RepMcSally,AZ,member
+44,yes,house,Martha McSally,R,MarthaMcSally,AZ,member
+45,no,house,Paul Gosar,R,RepGosar,AZ,member
+46,no,house,Raúl Grijalva,D,RepRaulGrijalva,AZ,member
+47,yes,house,Raúl Grijalva,D,standwithraul,AZ,member
+48,no,house,Ruben Gallego,D,RepRubenGallego,AZ,member
+49,yes,house,Ruben Gallego,D,petegallego,AZ,member
+50,no,house,Tom O'Halleran,D,RepOHalleran,AZ,member
+51,no,house,Trent Franks,R,RepTrentFranks,AZ,member
+52,no,house,Adam Schiff,D,RepAdamSchiff,CA,member
+53,yes,house,Adam Schiff,D,AdamSchiffCA,CA,member
+54,no,house,Alan Lowenthal,D,RepLowenthal,CA,member
+55,no,house,Ami Bera,D,RepBera,CA,member
+56,yes,house,Ami Bera,D,BeraForCongress,CA,member
+57,no,house,Anna Eshoo,D,RepAnnaEshoo,CA,member
+58,yes,house,Anna Eshoo,D,Eshoo4Congress,CA,member
+59,no,house,Barbara Lee,D,RepBarbaraLee,CA,member
+60,yes,house,Barbara Lee,D,BarbaraLeeSays,CA,member
+61,no,house,Brad Sherman,D,BradSherman,CA,member
+62,no,house,Dana Rohrabacher,R,RepRohrabacher,CA,member
+63,yes,house,Dana Rohrabacher,R,DanaRohrabacher,CA,member
+64,no,house,Darrell Issa,R,DarrellIssa,CA,member
+65,yes,house,Darrell Issa,R,TeamIssa,CA,member
+66,no,house,David Valadao,R,RepDavidValadao,CA,member
+67,yes,house,David Valadao,R,dgvaladao,CA,member
+68,no,house,Devin Nunes,R,Rep_DevinNunes,CA,member
+69,no,house,Devin Nunes,R,DevinNunes,CA,member
+70,yes,house,Devin Nunes,R,DevinGNunes,CA,member
+71,no,house,Doris Matsui,D,DorisMatsui,CA,member
+72,yes,house,Doris Matsui,D,Matsui4Congress,CA,member
+73,no,house,Doug LaMalfa,R,RepLaMalfa,CA,member
+74,yes,house,Doug LaMalfa,R,DougLaMalfa,CA,member
+75,no,house,Duncan Hunter,R,Rep_Hunter,CA,member
+76,no,house,Ed Royce,R,RepEdRoyce,CA,member
+77,yes,house,Ed Royce,R,EdRRoyce,CA,member
+78,no,house,Eric Swalwell,D,RepSwalwell,CA,member
+79,yes,house,Eric Swalwell,D,ericswalwell,CA,member
+80,no,house,Grace Napolitano,D,gracenapolitano,CA,member
+81,yes,house,Grace Napolitano,D,grace4congress,CA,member
+82,no,house,Jackie Speier,D,RepSpeier,CA,member
+83,yes,house,Jackie Speier,D,JackieSpeier,CA,member
+84,no,house,Jared Huffman,D,RepHuffman,CA,member
+85,yes,house,Jared Huffman,D,JaredHuffman,CA,member
+86,no,house,Jeff Denham,R,RepJeffDenham,CA,member
+87,yes,house,Jeff Denham,R,JeffDenham,CA,member
+88,no,house,Jerry McNerney,D,RepMcNerney,CA,member
+89,yes,house,Jerry McNerney,D,jerrymcnerney,CA,member
+90,no,house,Jim Costa,D,RepJimCosta,CA,member
+91,no,house,Jimmy Gomez,D,RepJimmyGomez,CA,member
+92,yes,house,Jimmy Gomez,D,JimmyGomezCA,CA,member
+93,no,house,Jimmy Panetta,D,RepJimmyPanetta,CA,member
+94,yes,house,Jimmy Panetta,D,JimmyPanetta,CA,member
+95,no,house,John Garamendi,D,RepGaramendi,CA,member
+96,yes,house,John Garamendi,D,JohnGaramendi,CA,member
+97,no,house,Juan Vargas,D,RepJuanVargas,CA,member
+98,no,house,Judy Chu,D,RepJudyChu,CA,member
+99,yes,house,Judy Chu,D,JudyChuCampaign,CA,member
+100,no,house,Julia Brownley,D,JuliaBrownley26,CA,member
+101,yes,house,Julia Brownley,D,JuliaBrownley,CA,member
+102,no,house,Karen Bass,D,RepKarenBass,CA,member
+103,yes,house,Karen Bass,D,KarenBassTweets,CA,member
+104,no,house,Ken Calvert,R,KenCalvert,CA,member
+105,yes,house,Ken Calvert,R,TeamCalvert,CA,member
+106,no,house,Kevin McCarthy,R,GOPLeader,CA,member
+107,yes,house,Kevin McCarthy,R,kevinomccarthy,CA,member
+108,no,house,Linda Sánchez,D,RepLindaSanchez,CA,member
+109,no,house,Lou Correa,D,RepLouCorrea,CA,member
+110,no,house,Lucille Roybal-Allard,D,RepRoybalAllard,CA,member
+111,yes,house,Lucille Roybal-Allard,D,LRAforCongress,CA,member
+112,no,house,Mark DeSaulnier,D,RepDeSaulnier,CA,member
+113,yes,house,Mark DeSaulnier,D,MarkDeSaulnier,CA,member
+114,no,house,Mark Takano,D,RepMarkTakano,CA,member
+115,yes,house,Mark Takano,D,MarkTakano,CA,member
+116,no,house,Maxine Waters,D,MaxineWaters,CA,member
+117,yes,house,Maxine Waters,D,MaxineWatersLA,CA,member
+118,no,house,Mike Thompson,D,RepThompson,CA,member
+119,no,house,Mimi Walters,R,RepMimiWalters,CA,member
+120,yes,house,Mimi Walters,R,MimiWaltersCA,CA,member
+121,no,house,Nancy Pelosi,D,NancyPelosi,CA,member
+122,yes,house,Nancy Pelosi,D,TeamPelosi,CA,member
+123,no,house,Nanette Barragán,D,RepBarragan,CA,member
+124,yes,house,Nanette Barragán,D,Nanette4CA,CA,member
+125,no,house,Norma Torres,D,NormaJTorres,CA,member
+126,yes,house,Norma Torres,D,Norma4Congress,CA,member
+127,no,house,Paul Cook,R,RepPaulCook,CA,member
+128,no,house,Pete Aguilar,D,RepPeteAguilar,CA,member
+129,yes,house,Pete Aguilar,D,aguilarpete,CA,member
+130,no,house,Raul Ruiz,D,CongressmanRuiz,CA,member
+131,yes,house,Raul Ruiz,D,Dr_RaulRuiz,CA,member
+132,no,house,Ro Khanna,D,RepRoKhanna,CA,member
+133,yes,house,Ro Khanna,D,RoKhanna,CA,member
+134,no,house,Salud Carbajal,D,RepCarbajal,CA,member
+135,yes,house,Salud Carbajal,D,carbajalsalud,CA,member
+136,no,house,Scott Peters,D,RepScottPeters,CA,member
+137,yes,house,Scott Peters,D,ScottPetersSD,CA,member
+138,no,house,Steve Knight,R,SteveKnight25,CA,member
+139,yes,house,Steve Knight,R,Knight4Congress,CA,member
+140,no,house,Susan Davis,D,RepSusanDavis,CA,member
+141,no,house,Ted Lieu,D,RepTedLieu,CA,member
+142,yes,house,Ted Lieu,D,tedlieu,CA,member
+143,no,house,Tom McClintock,R,RepMcClintock,CA,member
+144,yes,house,Tom McClintock,R,tommcclintock,CA,member
+145,no,house,Tony Cardenas,D,RepCardenas,CA,member
+146,yes,house,Tony Cardenas,D,CardenasforCA,CA,member
+147,no,house,Zoe Lofgren,D,RepZoeLofgren,CA,member
+148,no,house,Diana DeGette,D,RepDianaDeGette,CO,member
+149,yes,house,Diana DeGette,D,DeGette5280,CO,member
+150,no,house,Doug Lamborn,R,RepDLamborn,CO,member
+151,no,house,Ed Perlmutter,D,RepPerlmutter,CO,member
+152,yes,house,Ed Perlmutter,D,Ed4Colorado,CO,member
+153,no,house,Jared Polis,D,RepJaredPolis,CO,member
+154,no,house,Jared Polis,D,jaredpolis,CO,member
+155,no,house,Ken Buck,R,RepKenBuck,CO,member
+156,yes,house,Ken Buck,R,BuckForColorado,CO,member
+157,no,house,Mike Coffman,R,RepMikeCoffman,CO,member
+158,yes,house,Mike Coffman,R,coffmanforco,CO,member
+159,no,house,Scott Tipton,R,RepTipton,CO,member
+160,yes,house,Scott Tipton,R,ScottRTipton,CO,member
+161,no,house,Elzabeth Esty,D,RepEsty,CT,member
+162,yes,house,Elzabeth Esty,D,Elizabeth_Esty,CT,member
+163,yes,house,Jim Himes,D,jahimes,CT,member
+164,no,house,Joe Courtney,D,RepJoeCourtney,CT,member
+165,yes,house,Joe Courtney,D,JoeCourtneyCT,CT,member
+166,no,house,John B. Larson,D,RepJohnLarson,CT,member
+167,yes,house,John B. Larson,D,JohnLarsonCT,CT,member
+168,no,house,Rosa DeLauro,D,rosadelauro,CT,member
+169,yes,house,Rosa DeLauro,D,Rosa_DeLauro,CT,member
+170,no,house,Eleanor Holmes Norton,D,EleanorNorton,DC,member
+171,no,house,Lisa Blunt Rochester,D,RepBRochester,DE,member
+172,no,house,Al Lawson,D,RepAlLawsonJr,FL,member
+173,no,house,Alcee Hastings,D,RepHastingsFL,FL,member
+174,yes,house,Alcee Hastings,D,alcee4congress,FL,member
+175,no,house,Bill Posey,R,congbillposey,FL,member
+176,no,house,Brian Mast,R,RepBrianMast,FL,member
+177,yes,house,Brian Mast,R,BrianMastFL,FL,member
+178,no,house,Carlos Curbelo,R,RepCurbelo,FL,member
+179,yes,house,Carlos Curbelo,R,carloslcurbelo,FL,member
+180,no,house,Charlie Crist,D,RepCharlieCrist,FL,member
+181,yes,house,Charlie Crist,D,CharlieCrist,FL,member
+182,no,house,Daniel Webster,R,RepWebster,FL,member
+183,yes,house,Daniel Webster,R,WebsterCongress,FL,member
+184,no,house,Darren Soto,D,RepDarrenSoto,FL,member
+185,yes,house,Darren Soto,D,DarrenSoto,FL,member
+186,no,house,Debbie Wasserman Schultz,D,RepDWStweets,FL,member
+187,yes,house,Debbie Wasserman Schultz,D,DWStweets,FL,member
+188,no,house,Dennis A. Ross,R,RepDennisRoss,FL,member
+189,yes,house,Dennis A. Ross,R,DonNorcross4NJ,FL,member
+190,no,house,Francis Rooney,R,RepRooney,FL,member
+191,yes,house,Francis Rooney,R,FrancisRooney,FL,member
+192,no,house,Frederica Wilson,D,RepWilson,FL,member
+193,yes,house,Frederica Wilson,D,CongJoeWilson,FL,member
+194,no,house,Gus Bilirakis,R,RepGusBilirakis,FL,member
+195,no,house,Ileana Ros-Lehtinen,R,RosLehtinen,FL,member
+196,yes,house,Ileana Ros-Lehtinen,R,RosLehtinenCamp,FL,member
+197,no,house,John Rutherford,R,RepRutherfordFL,FL,member
+198,yes,house,John Rutherford,R,JRutherfordFL,FL,member
+199,no,house,Kathy Castor,D,USRepKCastor,FL,member
+200,yes,house,Kathy Castor,D,KathyCastorFL,FL,member
+201,no,house,Lois Frankel,D,RepLoisFrankel,FL,member
+202,yes,house,Lois Frankel,D,LoisFrankel,FL,member
+203,no,house,Mario Diaz-Balart,R,MarioDB,FL,member
+204,yes,house,Mario Diaz-Balart,R,MarioDBCamp,FL,member
+205,no,house,Matt Gaetz,R,RepMattGaetz,FL,member
+206,yes,house,Matt Gaetz,R,mattgaetz,FL,member
+207,no,house,Neal Dunn,R,DrNealDunnFL2,FL,member
+208,yes,house,Neal Dunn,R,DrNealDunn,FL,member
+209,yes,house,Neal Dunn,R,DunnCampaign,FL,member
+210,no,house,Ron DeSantis,R,RepDeSantis,FL,member
+211,yes,house,Ron DeSantis,R,RonDeSantisFL,FL,member
+212,no,house,Stephanie Murphy,D,RepStephMurphy,FL,member
+213,yes,house,Stephanie Murphy,D,SMurphyCongress,FL,member
+214,no,house,Ted Deutch,D,RepTedDeutch,FL,member
+215,yes,house,Ted Deutch,D,TedforCongress,FL,member
+216,no,house,Ted Yoho,R,RepTedYoho,FL,member
+217,yes,house,Ted Yoho,R,TedYoho,FL,member
+218,no,house,Tom Rooney,R,TomRooney,FL,member
+219,yes,house,Tom Rooney,R,Rooney4Congress,FL,member
+220,no,house,Val Demings,D,RepValDemings,FL,member
+221,no,house,Vern Buchanan,R,VernBuchanan,FL,member
+222,yes,house,Vern Buchanan,R,Vern2014,FL,member
+223,no,house,Austin Scott,R,AustinScottGA08,GA,member
+224,yes,house,Austin Scott,R,ScottForGA,GA,member
+225,no,house,Barry Loudermilk,R,RepLoudermilk,GA,member
+226,yes,house,Barry Loudermilk,R,standwithbarry,GA,member
+227,no,house,Buddy Carter,R,RepBuddyCarter,GA,member
+228,yes,house,Buddy Carter,R,Buddy_Carter,GA,member
+229,no,house,David Scott,D,repdavidscott,GA,member
+230,no,house,Doug Collins,R,RepDougCollins,GA,member
+231,yes,house,Doug Collins,R,Douglas_Collins,GA,member
+232,no,house,Drew Ferguson,R,RepDrewFerguson,GA,member
+233,yes,house,Drew Ferguson,R,DrewFergusonGA,GA,member
+234,no,house,Hank Johnson,D,RepHankJohnson,GA,member
+235,yes,house,Hank Johnson,D,ReElectHank,GA,member
+236,no,house,Jody Hice,R,CongressmanHice,GA,member
+237,yes,house,Jody Hice,R,jodyhice,GA,member
+238,no,house,John Lewis,D,repjohnlewis,GA,member
+239,no,house,Rick W. Allen,R,RepRickAllen,GA,member
+240,yes,house,Rick W. Allen,R,rickallen,GA,member
+241,no,house,Rob Woodall,R,RepRobWoodall,GA,member
+242,yes,house,Rob Woodall,R,WoodallGA,GA,member
+243,no,house,Sanford Bishop,D,SanfordBishop,GA,member
+244,no,house,Tom Graves,R,RepTomGraves,GA,member
+245,yes,house,Tom Graves,R,TomGravesGA14,GA,member
+246,no,house,Colleen Hanabusa,D,RepHanabusa,HI,member
+247,no,house,Tulsi Gabbard,D,TulsiPress,HI,member
+248,yes,house,Tulsi Gabbard,D,TulsiGabbard,HI,member
+249,no,house,Dave Loebsack,D,daveloebsack,IA,member
+250,yes,house,Dave Loebsack,D,DaveForIowa,IA,member
+251,no,house,David Young,R,RepDavidYoung,IA,member
+252,yes,house,David Young,R,DavidYoungIA,IA,member
+253,yes,house,David Young,R,YoungForIowa,IA,member
+254,no,house,Rod Blum,R,RepRodBlum,IA,member
+255,yes,house,Rod Blum,R,RodBlum,IA,member
+256,no,house,Steve King,R,SteveKingIA,IA,member
+257,yes,house,Steve King,R,KingforCongress,IA,member
+258,no,house,Mike Simpson,R,CongMikeSimpson,ID,member
+259,yes,house,Mike Simpson,R,MikeSimpson4ID,ID,member
+260,no,house,Raul Labrador,R,Raul_Labrador,ID,member
+261,yes,house,Raul Labrador,R,RaulLabrador4ID,ID,member
+262,no,house,Adam Kinzinger,R,RepKinzinger,IL,member
+263,yes,house,Adam Kinzinger,R,AdamKinzinger,IL,member
+264,no,house,Bill Foster,D,RepBillFoster,IL,member
+265,yes,house,Bill Foster,D,Foster4Congress,IL,member
+266,no,house,Bobby Rush,D,RepBobbyRush,IL,member
+267,yes,house,Bobby Rush,D,BobbyLRushMC,IL,member
+268,no,house,Brad Schneider,D,RepSchneider,IL,member
+269,yes,house,Brad Schneider,D,Schneider4IL10,IL,member
+270,no,house,Cheri Bustos,D,RepCheri,IL,member
+271,yes,house,Cheri Bustos,D,CheriBustos,IL,member
+272,no,house,Dan Lipinski,D,RepLipinski,IL,member
+273,no,house,Danny K. Davis,D,RepDannyDavis,IL,member
+274,no,house,Darin LaHood,R,RepLaHood,IL,member
+275,yes,house,Darin LaHood,R,ElectLaHood,IL,member
+276,no,house,Jan Schakowsky,D,janschakowsky,IL,member
+277,no,house,John Shimkus,R,RepShimkus,IL,member
+278,yes,house,John Shimkus,R,JohnMShimkus,IL,member
+279,no,house,Luis Gutiérrez,D,RepGutierrez,IL,member
+280,yes,house,Luis Gutiérrez,D,LuisGutierrez,IL,member
+281,no,house,Mike Bost,R,RepBost,IL,member
+282,yes,house,Mike Bost,R,BostForCongress,IL,member
+283,no,house,Mike Quigley,D,RepMikeQuigley,IL,member
+284,yes,house,Mike Quigley,D,QuigleyCampaign,IL,member
+285,no,house,Peter Roskam,R,PeterRoskam,IL,member
+286,no,house,Raja Krishnamoorthi,D,CongressmanRaja,IL,member
+287,yes,house,Raja Krishnamoorthi,D,RajaForCongress,IL,member
+288,no,house,Randy Hultgren,R,RepHultgren,IL,member
+289,yes,house,Randy Hultgren,R,RandyHultgren,IL,member
+290,no,house,Robin Kelly,D,RepRobinKelly,IL,member
+291,yes,house,Robin Kelly,D,Robin42CD,IL,member
+292,no,house,Rodney Davis,R,RodneyDavis,IL,member
+293,yes,house,Rodney Davis,R,ElectRodney,IL,member
+294,no,house,Andre Carson,D,RepAndreCarson,IN,member
+295,yes,house,Andre Carson,D,Andre4Congress,IN,member
+296,no,house,Jackie Walorski,R,RepWalorski,IN,member
+297,yes,house,Jackie Walorski,R,StandWithJackie,IN,member
+298,yes,house,Jackie Walorski,R,jackiewalorski,IN,member
+299,no,house,Jim Banks,R,RepJimBanks,IN,member
+300,yes,house,Jim Banks,R,Jim_Banks,IN,member
+301,no,house,Larry Bucshon,R,RepLarryBucshon,IN,member
+302,yes,house,Larry Bucshon,R,DrLarryBucshon,IN,member
+303,no,house,Luke Messer,R,RepLukeMesser,IN,member
+304,yes,house,Luke Messer,R,LukeMesserIN,IN,member
+305,no,house,Pete Visclosky,D,RepVisclosky,IN,member
+306,yes,house,Pete Visclosky,D,TeamVisclosky,IN,member
+307,no,house,Susan Brooks,R,SusanWBrooks,IN,member
+308,yes,house,Susan Brooks,R,SusanBrooksIN,IN,member
+309,no,house,Todd Rokita,R,ToddRokita,IN,member
+310,yes,house,Todd Rokita,R,ToddRokitaIN,IN,member
+311,no,house,Trey Hollingsworth,R,RepTrey,IN,member
+312,yes,house,Trey Hollingsworth,R,VoteForTrey,IN,member
+313,no,house,Kevin Yoder,R,RepKevinYoder,KS,member
+314,yes,house,Kevin Yoder,R,KevinYoder,KS,member
+315,no,house,Lynn Jenkins,R,RepLynnJenkins,KS,member
+316,yes,house,Lynn Jenkins,R,lynnjenkins,KS,member
+317,no,house,Roger Marshall,R,RepMarshall,KS,member
+318,yes,house,Roger Marshall,R,RogerMarshallMD,KS,member
+319,no,house,Ron Estes,R,RepRonEstes,KS,member
+320,yes,house,Ron Estes,R,RonEstesKS,KS,member
+321,no,house,Andy Barr,R,RepAndyBarr,KY,member
+322,yes,house,Andy Barr,R,barrforcongress,KY,member
+323,no,house,Brett Guthrie,R,RepGuthrie,KY,member
+324,yes,house,Brett Guthrie,R,brettguthrie,KY,member
+325,no,house,Hal Rogers,R,RepHalRogers,KY,member
+326,yes,house,James Comer,R,KYComer,KY,member
+327,no,house,John Yarmuth,D,RepJohnYarmuth,KY,member
+328,no,house,Thomas Massie,R,RepThomasMassie,KY,member
+329,yes,house,Thomas Massie,R,ThomasMassieKY,KY,member
+330,no,house,Cedric Richmond,D,RepRichmond,LA,member
+331,yes,house,Cedric Richmond,D,CedricRichmond,LA,member
+332,no,house,Clay Higgins,R,RepClayHiggins,LA,member
+333,yes,house,Clay Higgins,R,CaptClayHiggins,LA,member
+334,no,house,Garret Graves,R,RepGarretGraves,LA,member
+335,yes,house,Garret Graves,R,garretgraves,LA,member
+336,no,house,Mike Johnson,R,RepMikeJohnson,LA,member
+337,yes,house,Mike Johnson,R,MikeJohnson,LA,member
+338,no,house,Ralph Abraham,R,RepAbraham,LA,member
+339,yes,house,Ralph Abraham,R,abraham_ralph,LA,member
+340,no,house,Steve Scalise,R,SteveScalise,LA,member
+341,yes,house,Steve Scalise,R,GeauxScalise,LA,member
+342,no,house,Bill Keating,D,USRepKeating,MA,member
+343,yes,house,Bill Keating,D,WilliamKeating,MA,member
+344,no,house,Jim McGovern,D,RepMcGovern,MA,member
+345,yes,house,Jim McGovern,D,McGovernMA,MA,member
+346,no,house,Joseph Kennedy III,D,RepJoeKennedy,MA,member
+347,yes,house,Joseph Kennedy III,D,joekennedy,MA,member
+348,no,house,Katherine Clark,D,RepKClark,MA,member
+349,yes,house,Katherine Clark,D,KatherineClark,MA,member
+350,no,house,Mike Capuano,D,RepMikeCapuano,MA,member
+351,yes,house,Mike Capuano,D,mikecapuano,MA,member
+352,no,house,Niki Tsongas,D,nikiinthehouse,MA,member
+353,no,house,Richard Neal,D,RepRichardNeal,MA,member
+354,no,house,Seth Moulton,D,teammoulton,MA,member
+355,yes,house,Seth Moulton,D,sethmoulton,MA,member
+356,no,house,Stephen Lynch,D,RepStephenLynch,MA,member
+357,no,house,Andy Harris,R,RepAndyHarrisMD,MD,member
+358,yes,house,Andy Harris,R,Harris4Congress,MD,member
+359,no,house,Anthony G. Brown,D,RepAnthonyBrown,MD,member
+360,yes,house,Anthony G. Brown,D,AnthonyBrownMD4,MD,member
+361,no,house,Dutch Ruppersberger,D,Call_Me_Dutch,MD,member
+362,no,house,Elijah Cummings,D,RepCummings,MD,member
+363,yes,house,Elijah Cummings,D,ReElectCummings,MD,member
+364,no,house,Jamie Raskin,D,RepRaskin,MD,member
+365,yes,house,Jamie Raskin,D,jamie_raskin,MD,member
+366,no,house,John Delaney,D,RepJohnDelaney,MD,member
+367,yes,house,John Delaney,D,JohnKDelaneyJKD,MD,member
+368,no,house,John Sarbanes,D,RepSarbanes,MD,member
+369,no,house,Steny Hoyer,D,WhipHoyer,MD,member
+370,yes,house,Steny Hoyer,D,StenyHoyer,MD,member
+371,no,house,Bruce Poliquin,R,RepPoliquin,ME,member
+372,yes,house,Bruce Poliquin,R,BrucePoliquin,ME,member
+373,no,house,Chellie Pingree,D,chelliepingree,ME,member
+374,no,house,Bill Huizenga,R,RepHuizenga,MI,member
+375,yes,house,Bill Huizenga,R,billhuizenga,MI,member
+376,no,house,Brenda Lawrence,D,RepLawrence,MI,member
+377,yes,house,Brenda Lawrence,D,BrendaLLawrence,MI,member
+378,no,house,Dan Kildee,D,RepDanKildee,MI,member
+379,yes,house,Dan Kildee,D,dankildee,MI,member
+380,no,house,Dave Trott,R,repdavetrott,MI,member
+381,no,house,Debbie Dingell,D,RepDebDingell,MI,member
+382,yes,house,Debbie Dingell,D,DebDingell,MI,member
+383,no,house,Fred Upton,R,RepFredUpton,MI,member
+384,yes,house,Fred Upton,R,UptonForAllOfUs,MI,member
+385,no,house,Jack Bergman,R,RepJackBergman,MI,member
+386,yes,house,Jack Bergman,R,JackBergman_MI1,MI,member
+387,no,house,John Conyers,D,RepJohnConyers,MI,member
+388,yes,house,John Conyers,D,johnconyersjr,MI,member
+389,no,house,John Moolenaar,R,RepMoolenaar,MI,member
+390,yes,house,John Moolenaar,R,JohnMoolenaar,MI,member
+391,no,house,Justin Amash,R,amashoffice,MI,member
+392,no,house,Justin Amash,R,justinamash,MI,member
+393,yes,house,Justin Amash,R,teamamash,MI,member
+394,no,house,Mike Bishop,R,RepMikeBishop,MI,member
+395,yes,house,Mike Bishop,R,ElectMikeBishop,MI,member
+396,yes,house,Mike Bishop,R,MikeBishopMI,MI,member
+397,no,house,Paul Mitchell,R,RepPaulMitchell,MI,member
+398,no,house,Sander Levin,D,repsandylevin,MI,member
+399,yes,house,Sander Levin,D,Levin4Congress,MI,member
+400,no,house,Tim Walberg,R,RepWalberg,MI,member
+401,yes,house,Tim Walberg,R,TimWalberg,MI,member
+402,no,house,Betty McCollum,D,BettyMcCollum04,MN,member
+403,yes,house,Collin Peterson,D,collinpeterson,MN,member
+404,no,house,Erik Paulsen,R,RepErikPaulsen,MN,member
+405,yes,house,Erik Paulsen,R,Erik_Paulsen,MN,member
+406,no,house,Jason Lewis,R,RepJasonLewis,MN,member
+407,yes,house,Jason Lewis,R,Jason2CD,MN,member
+408,no,house,Keith Ellison,D,keithellison,MN,member
+409,yes,house,Keith Ellison,D,EllisonCampaign,MN,member
+410,no,house,Rick Nolan,D,USRepRickNolan,MN,member
+411,no,house,Tim Walz,D,RepTimWalz,MN,member
+412,no,house,Tom Emmer,R,RepTomEmmer,MN,member
+413,yes,house,Tom Emmer,R,EMMERPAC,MN,member
+414,yes,house,Tom Emmer,R,tomemmer,MN,member
+415,no,house,Ann Wagner,R,RepAnnWagner,MO,member
+416,yes,house,Ann Wagner,R,AnnLWagner,MO,member
+417,no,house,Billy Long,R,USRepLong,MO,member
+418,yes,house,Billy Long,R,auctnr1,MO,member
+419,no,house,Blaine Luetkemeyer,R,RepBlainePress,MO,member
+420,yes,house,Blaine Luetkemeyer,R,LuetkemeyerB,MO,member
+421,no,house,Emanuel Cleaver,D,repcleaver,MO,member
+422,yes,house,Emanuel Cleaver,D,Vote4Cleaver,MO,member
+423,no,house,Jason Smith,R,RepJasonSmith,MO,member
+424,yes,house,Jason Smith,R,JasonSmithMO,MO,member
+425,yes,house,Lacy Clay,D,LacyClayMO1,MO,member
+426,no,house,Sam Graves,R,RepSamGraves,MO,member
+427,no,house,Vicky Hartzler,R,RepHartzler,MO,member
+428,yes,house,Vicky Hartzler,R,VickyHartzler,MO,member
+429,yes,house,Vicky Hartzler,R,VickyH4Congress,MO,member
+430,no,house,Bennie Thompson,D,BennieGThompson,MS,member
+431,no,house,Gregg Harper,R,GreggHarper,MS,member
+432,yes,house,Gregg Harper,R,HarperCampaign,MS,member
+433,no,house,Steven Palazzo,R,CongPalazzo,MS,member
+434,yes,house,Steven Palazzo,R,StevenPalazzo,MS,member
+435,no,house,Trent Kelly,R,RepTrentKelly,MS,member
+436,yes,house,Trent Kelly,R,KellyforMS01,MS,member
+437,no,house,Greg Gianforte,R,gianforte,MT,member
+438,yes,house,Greg Gianforte,R,GregForMontana,MT,member
+439,no,house,Alma Adams,D,RepAdams,NC,member
+440,yes,house,Alma Adams,D,AlmaforCongress,NC,member
+441,no,house,David Price,D,RepDavidEPrice,NC,member
+442,yes,house,David Price,D,DPrice4Congress,NC,member
+443,no,house,David Rouzer,R,RepDavidRouzer,NC,member
+444,yes,house,David Rouzer,R,DavidRouzer,NC,member
+445,no,house,G.K. Butterfield,D,GKButterfield,NC,member
+446,no,house,George Holding,R,RepHolding,NC,member
+447,yes,house,George Holding,R,GeorgeHolding,NC,member
+448,no,house,Mark Meadows,R,RepMarkMeadows,NC,member
+449,yes,house,Mark Meadows,R,VoteMeadows,NC,member
+450,no,house,Mark Walker,R,RepMarkWalker,NC,member
+451,yes,house,Mark Walker,R,Walker4NC,NC,member
+452,no,house,Patrick McHenry,R,PatrickMcHenry,NC,member
+453,yes,house,Patrick McHenry,R,McHenryCampaign,NC,member
+454,no,house,Richard Hudson,R,RepRichHudson,NC,member
+455,yes,house,Richard Hudson,R,RichHudson,NC,member
+456,no,house,Robert Pittenger,R,reppittenger,NC,member
+457,yes,house,Robert Pittenger,R,RobertPittenger,NC,member
+458,no,house,Ted Budd,R,RepTedBudd,NC,member
+459,yes,house,Ted Budd,R,buddforcongress,NC,member
+460,no,house,Virginia Foxx,R,virginiafoxx,NC,member
+461,yes,house,Virginia Foxx,R,foxxforcongress,NC,member
+462,no,house,Walter B. Jones,R,RepWalterJones,NC,member
+463,yes,house,Walter B. Jones,R,WalterJones2016,NC,member
+464,no,house,Kevin Cramer,R,RepKevinCramer,ND,member
+465,yes,house,Kevin Cramer,R,kevincramer,ND,member
+466,no,house,Adrian Smith,R,RepAdrianSmith,NE,member
+467,no,house,Don Bacon,R,RepDonBacon,NE,member
+468,yes,house,Don Bacon,R,DonJBacon,NE,member
+469,no,house,Jeff Fortenberry,R,JeffFortenberry,NE,member
+470,no,house,Annie Kuster,D,RepAnnieKuster,NH,member
+471,yes,house,Annie Kuster,D,AnnMcLaneKuster,NH,member
+472,no,house,Carol Shea-Porter,D,RepSheaPorter,NH,member
+473,yes,house,Carol Shea-Porter,D,TeamSheaPorter,NH,member
+474,no,house,Albio Sires,D,RepSires,NJ,member
+475,yes,house,Albio Sires,D,AlbioSiresNJ,NJ,member
+476,no,house,Bill Pascrell,D,BillPascrell,NJ,member
+477,yes,house,Bill Pascrell,D,PascrellforNJ,NJ,member
+478,no,house,Bonnie Watson Coleman,D,RepBonnie,NJ,member
+479,yes,house,Bonnie Watson Coleman,D,Bonnie4Congress,NJ,member
+480,no,house,Chris Smith,R,RepChrisSmith,NJ,member
+481,no,house,Donald Norcross,D,DonaldNorcross,NJ,member
+482,yes,house,Donald Norcross,D,DonNorcross4NJ,NJ,member
+483,no,house,Donald Payne Jr.,D,RepDonaldPayne,NJ,member
+484,no,house,Frank LoBiondo,R,RepLoBiondo,NJ,member
+485,yes,house,Frank LoBiondo,R,TeamLoBiondo,NJ,member
+486,no,house,Frank Pallone,D,FrankPallone,NJ,member
+487,yes,house,Frank Pallone,D,pallonefornj,NJ,member
+488,no,house,Josh Gottheimer,D,RepJoshG,NJ,member
+489,yes,house,Josh Gottheimer,D,JoshGottheimer,NJ,member
+490,no,house,Leonard Lance,R,RepLanceNJ7,NJ,member
+491,yes,house,Leonard Lance,R,LeonardLanceNJ7,NJ,member
+492,no,house,Rodney Frelinghuysen,R,USRepRodney,NJ,member
+493,no,house,Tom MacArthur,R,RepTomMacArthur,NJ,member
+494,yes,house,Tom MacArthur,R,tmac4congress,NJ,member
+495,no,house,Ben Ray Luján,D,repbenraylujan,NM,member
+496,yes,house,Ben Ray Luján,D,peopleforben,NM,member
+497,no,house,Michelle Lujan Grisham,D,RepLujanGrisham,NM,member
+498,yes,house,Michelle Lujan Grisham,D,Michelle4NM,NM,member
+499,no,house,Steve Pearce,R,RepStevePearce,NM,member
+500,yes,house,Steve Pearce,R,Pearce4NM,NM,member
+501,no,house,Dina Titus,D,repdinatitus,NV,member
+502,yes,house,Dina Titus,D,dinatitus,NV,member
+503,no,house,Jacky Rosen,D,RepJackyRosen,NV,member
+504,yes,house,Jacky Rosen,D,RosenforNevada,NV,member
+505,no,house,Mark Amodei,R,MarkAmodeiNV2,NV,member
+506,yes,house,Mark Amodei,R,AmodeiForNevada,NV,member
+507,no,house,Ruben Kihuen,D,RepKihuen,NV,member
+508,yes,house,Ruben Kihuen,D,RubenKihuen,NV,member
+509,no,house,Adriano Espaillat,D,RepEspaillat,NY,member
+510,yes,house,Adriano Espaillat,D,EspaillatNY,NY,member
+511,no,house,Brian Higgins,D,RepBrianHiggins,NY,member
+512,yes,house,Brian Higgins,D,Higgins4WNY,NY,member
+513,no,house,Carolyn Maloney,D,RepMaloney,NY,member
+514,yes,house,Carolyn Maloney,D,CarolynBMaloney,NY,member
+515,no,house,Chris Collins,R,RepChrisCollins,NY,member
+516,yes,house,Chris Collins,R,CollinsNY27,NY,member
+517,no,house,Claudia Tenney,R,RepTenney,NY,member
+518,yes,house,Claudia Tenney,R,claudiatenney,NY,member
+519,no,house,Dan Donovan,R,RepDanDonovan,NY,member
+520,yes,house,Dan Donovan,R,dandonovan_ny,NY,member
+521,no,house,Eliot Engel,D,RepEliotEngel,NY,member
+522,no,house,Elise Stefanik,R,RepStefanik,NY,member
+523,yes,house,Elise Stefanik,R,EliseStefanik,NY,member
+524,no,house,Grace Meng,D,RepGraceMeng,NY,member
+525,yes,house,Grace Meng,D,Grace4NY,NY,member
+526,no,house,Gregory Meeks,D,GregoryMeeks,NY,member
+527,no,house,Hakeem Jeffries,D,RepJeffries,NY,member
+528,yes,house,Hakeem Jeffries,D,TeamJeffries,NY,member
+529,no,house,Jerrold Nadler,D,RepJerryNadler,NY,member
+530,yes,house,Jerrold Nadler,D,JerryNadler,NY,member
+531,no,house,John Faso,R,RepJohnFaso,NY,member
+532,yes,house,John Faso,R,JohnFasoNy,NY,member
+533,no,house,John Katko,R,RepJohnKatko,NY,member
+534,no,house,Joseph Crowley,D,repjoecrowley,NY,member
+535,yes,house,Joseph Crowley,D,JoeCrowleyNY,NY,member
+536,no,house,José E. Serrano,D,RepJoseSerrano,NY,member
+537,yes,house,José E. Serrano,D,serranocongress,NY,member
+538,no,house,Kathleen Rice,D,RepKathleenRice,NY,member
+539,no,house,Lee Zeldin,R,RepLeeZeldin,NY,member
+540,yes,house,Lee Zeldin,R,leezeldin,NY,member
+541,no,house,Louise Slaughter,D,louiseslaughter,NY,member
+542,yes,house,Louise Slaughter,D,VoteLouiseNY,NY,member
+543,no,house,Nita Lowey,D,NitaLowey,NY,member
+544,yes,house,Nita Lowey,D,Lowey4Congress,NY,member
+545,no,house,Nydia Velázquez,D,NydiaVelazquez,NY,member
+546,yes,house,Nydia Velázquez,D,ReElectNydia,NY,member
+547,no,house,Paul Tonko,D,RepPaulTonko,NY,member
+548,yes,house,Paul Tonko,D,Tonko4Congress,NY,member
+549,no,house,Peter T. King,R,RepPeteKing,NY,member
+550,yes,house,Peter T. King,R,congpeteking,NY,member
+551,no,house,Sean Maloney,D,RepSeanMaloney,NY,member
+552,yes,house,Sean Maloney,D,spmaloney,NY,member
+553,no,house,Thomas Suozzi,D,RepTomSuozzi,NY,member
+554,yes,house,Thomas Suozzi,D,Tom_Suozzi,NY,member
+555,no,house,Tom Reed,R,RepTomReed,NY,member
+556,yes,house,Tom Reed,R,TomReedCongress,NY,member
+557,no,house,Yvette Clarke,D,RepYvetteClarke,NY,member
+558,no,house,Bill Johnson,R,RepBillJohnson,OH,member
+559,no,house,Bob Gibbs,R,RepBobGibbs,OH,member
+560,yes,house,Bob Gibbs,R,Bob_Gibbs,OH,member
+561,no,house,Bob Latta,R,boblatta,OH,member
+562,yes,house,Bob Latta,R,latta4congress,OH,member
+563,no,house,Brad Wenstrup,R,RepBradWenstrup,OH,member
+564,yes,house,Brad Wenstrup,R,bradwenstrup,OH,member
+565,no,house,David Joyce,R,RepDaveJoyce,OH,member
+566,yes,house,David Joyce,R,DaveJoyceOH14,OH,member
+567,no,house,Jim Jordan,R,Jim_Jordan,OH,member
+568,no,house,Jim Renacci,R,RepJimRenacci,OH,member
+569,yes,house,Jim Renacci,R,JimRenacci,OH,member
+570,no,house,Joyce Beatty,D,RepBeatty,OH,member
+571,yes,house,Joyce Beatty,D,JoyceBeatty,OH,member
+572,no,house,Marcia Fudge,D,RepMarciaFudge,OH,member
+573,no,house,Marcy Kaptur,D,RepMarcyKaptur,OH,member
+574,yes,house,Marcy Kaptur,D,Marcy_Kaptur,OH,member
+575,no,house,Mike Turner,R,RepMikeTurner,OH,member
+576,yes,house,Mike Turner,R,MikeTurnerOH,OH,member
+577,no,house,Pat Tiberi,R,PatTiberi,OH,member
+578,yes,house,Pat Tiberi,R,TeamTiberi,OH,member
+579,no,house,Steve Chabot,R,RepSteveChabot,OH,member
+580,yes,house,Steve Chabot,R,SteveChabot,OH,member
+581,no,house,Steve Stivers,R,RepSteveStivers,OH,member
+582,yes,house,Steve Stivers,R,stevestivers,OH,member
+583,no,house,Tim Ryan,D,RepTimRyan,OH,member
+584,no,house,Warren Davidson,R,WarrenDavidson,OH,member
+585,yes,house,Warren Davidson,R,Vote_Davidson,OH,member
+586,no,house,Frank Lucas,R,RepFrankLucas,OK,member
+587,yes,house,Frank Lucas,R,FrankDLucas,OK,member
+588,no,house,Jim Bridenstine,R,RepJBridenstine,OK,member
+589,yes,house,Jim Bridenstine,R,Bridenstine4OK,OK,member
+590,no,house,Markwayne Mullin,R,RepMullin,OK,member
+591,yes,house,Markwayne Mullin,R,MarkwayneMullin,OK,member
+592,no,house,Steve Russell,R,RepRussell,OK,member
+593,yes,house,Steve Russell,R,SteveRussellOK,OK,member
+594,no,house,Tom Cole,R,TomColeOK04,OK,member
+595,yes,house,Tom Cole,R,ColeForCongress,OK,member
+596,no,house,Earl Blumenauer,D,BlumenauerMedia,OR,member
+597,yes,house,Earl Blumenauer,D,repblumenauer,OR,member
+598,no,house,Greg Walden,R,repgregwalden,OR,member
+599,yes,house,Greg Walden,R,votegregwalden,OR,member
+600,no,house,Kurt Schrader,D,RepSchrader,OR,member
+601,no,house,Peter DeFazio,D,RepPeterDeFazio,OR,member
+602,yes,house,Peter DeFazio,D,DeFazio4Oregon,OR,member
+603,no,house,Suzanne Bonamici,D,RepBonamici,OR,member
+604,no,house,Bill Shuster,R,RepBillShuster,PA,member
+605,yes,house,Bill Shuster,R,ShusterForPA9,PA,member
+606,no,house,Bob Brady,D,RepBrady,PA,member
+607,yes,house,Bob Brady,D,BradyforPhilly,PA,member
+608,no,house,Brendan Boyle,D,CongBoyle,PA,member
+609,yes,house,Brendan Boyle,D,RepBrendanBoyle,PA,member
+610,no,house,Brian Fitzpatrick,R,RepBrianFitz,PA,member
+611,yes,house,Brian Fitzpatrick,R,BrianFitzUSA,PA,member
+612,no,house,Charlie Dent,R,RepCharlieDent,PA,member
+613,yes,house,Charlie Dent,R,DentforCongress,PA,member
+614,no,house,Dwight Evans,D,RepDwightEvans,PA,member
+615,no,house,Glenn Thompson,R,CongressmanGT,PA,member
+616,yes,house,Glenn Thompson,R,GT_TeamGT,PA,member
+617,no,house,Keith Rothfus,R,KeithRothfus,PA,member
+618,no,house,Lloyd Smucker,R,RepSmucker,PA,member
+619,yes,house,Lloyd Smucker,R,ElectSmucker,PA,member
+620,no,house,Lou Barletta,R,RepLouBarletta,PA,member
+621,yes,house,Lou Barletta,R,loubarletta,PA,member
+622,no,house,Matt Cartwright,D,RepCartwright,PA,member
+623,yes,house,Matt Cartwright,D,CartwrightPA,PA,member
+624,no,house,Michael F. Doyle,D,USRepMikeDoyle,PA,member
+625,no,house,Mike Kelly,R,MikeKellyPA,PA,member
+626,yes,house,Mike Kelly,R,MikeKellyforPA3,PA,member
+627,no,house,Pat Meehan,R,RepMeehan,PA,member
+628,yes,house,Pat Meehan,R,PatMeehanPA,PA,member
+629,no,house,Ryan Costello,R,RepRyanCostello,PA,member
+630,yes,house,Ryan Costello,R,RyanACostello,PA,member
+631,no,house,Scott Perry,R,RepScottPerry,PA,member
+632,no,house,Tim Murphy,R,RepTimMurphy,PA,member
+633,yes,house,Tim Murphy,R,TimMurphyPA,PA,member
+634,no,house,Tom Marino,R,RepTomMarino,PA,member
+635,yes,house,Tom Marino,R,Marino4Congress,PA,member
+636,no,house,Jenniffer González,R,RepJenniffer,PR,member
+637,no,house,David Cicilline,D,RepCicilline,RI,member
+638,yes,house,David Cicilline,D,davidcicilline,RI,member
+639,no,house,Jim Langevin,D,JimLangevin,RI,member
+640,yes,house,Jim Langevin,D,LangevinForRI,RI,member
+641,no,house,Jeff Duncan,R,RepJeffDuncan,SC,member
+642,yes,house,Jeff Duncan,R,Duncan4Congress,SC,member
+643,no,house,Jim Clyburn,D,Clyburn,SC,member
+644,yes,house,Jim Clyburn,D,ClyburnSC06,SC,member
+645,no,house,Joe Wilson,R,RepJoeWilson,SC,member
+646,yes,house,Joe Wilson,R,CongJoeWilson,SC,member
+647,no,house,Mark Sanford,R,RepSanfordSC,SC,member
+648,yes,house,Mark Sanford,R,MarkSanford,SC,member
+649,yes,house,Ralph Norman,R,RalphNorman,SC,member
+650,no,house,Tom Rice,R,RepTomRice,SC,member
+651,yes,house,Tom Rice,R,TomRiceSC7,SC,member
+652,no,house,Trey Gowdy,R,TGowdySC,SC,member
+653,yes,house,Trey Gowdy,R,gowdy4congress,SC,member
+654,no,house,Kristi Noem,R,RepKristiNoem,SD,member
+655,yes,house,Kristi Noem,R,KristiNoem,SD,member
+656,no,house,Chuck Fleischmann,R,RepChuck,TN,member
+657,yes,house,Chuck Fleischmann,R,chuck4congress,TN,member
+658,no,house,David Kustoff,R,repdavidkustoff,TN,member
+659,yes,house,David Kustoff,R,DavidKustoff,TN,member
+660,no,house,Diane Black,R,RepDianeBlack,TN,member
+661,yes,house,Diane Black,R,votedianeblack,TN,member
+662,no,house,Jim Cooper,D,repjimcooper,TN,member
+663,no,house,Jimmy Duncan,R,RepJohnDuncanJr,TN,member
+664,no,house,Marsha Blackburn,R,MarshaBlackburn,TN,member
+665,yes,house,Marsha Blackburn,R,VoteMarsha,TN,member
+666,no,house,Phil Roe,R,DrPhilRoe,TN,member
+667,no,house,Scott DesJarlais,R,DesJarlaisTN04,TN,member
+668,no,house,Steve Cohen,D,RepCohen,TN,member
+669,yes,house,Steve Cohen,D,ReElectCohen,TN,member
+670,no,house,Al Green,D,RepAlGreen,TX,member
+671,no,house,Al Green,D,RepAlGreenTX,TX,member
+672,no,house,Beto O'Rourke,D,RepBetoORourke,TX,member
+673,yes,house,Beto O'Rourke,D,BetoORourke,TX,member
+674,no,house,Bill Flores,R,RepBillFlores,TX,member
+675,yes,house,Bill Flores,R,Flores4Congress,TX,member
+676,no,house,Blake Farenthold,R,farenthold,TX,member
+677,yes,house,Blake Farenthold,R,Elect_Blake,TX,member
+678,no,house,Brian Babin,R,RepBrianBabin,TX,member
+679,yes,house,Brian Babin,R,Babin4Congress,TX,member
+680,no,house,Eddie Bernice Johnson,D,RepEBJ,TX,member
+681,no,house,Filemon Vela,D,RepFilemonVela,TX,member
+682,no,house,Gene Green,D,RepGeneGreen,TX,member
+683,yes,house,Gene Green,D,GeneGreen29,TX,member
+684,no,house,Henry Cuellar,D,RepCuellar,TX,member
+685,no,house,Jeb Hensarling,R,RepHensarling,TX,member
+686,yes,house,Jeb Hensarling,R,JebHensarling,TX,member
+687,no,house,Joaquin Castro,D,JoaquinCastrotx,TX,member
+688,yes,house,Joaquin Castro,D,Castro4Congress,TX,member
+689,no,house,Jodey Arrington,R,RepArrington,TX,member
+690,yes,house,Jodey Arrington,R,JodeyArrington,TX,member
+691,no,house,Joe Barton,R,RepJoeBarton,TX,member
+692,yes,house,Joe Barton,R,Barton4Congress,TX,member
+693,no,house,John Carter,R,JudgeCarter,TX,member
+694,yes,house,John Carter,R,JudgeJohnCarter,TX,member
+695,yes,house,John Carter,R,RepJohnCarter,TX,member
+696,no,house,John Culberson,R,CongCulberson,TX,member
+697,yes,house,John Culberson,R,johnculberson,TX,member
+698,no,house,John Ratcliffe,R,RepRatcliffe,TX,member
+699,yes,house,John Ratcliffe,R,RatcliffeTX4,TX,member
+700,no,house,Kay Granger,R,RepKayGranger,TX,member
+701,yes,house,Kay Granger,R,kay_granger,TX,member
+702,no,house,Kenny Marchant,R,RepKenMarchant,TX,member
+703,yes,house,Kenny Marchant,R,MarchantforTX24,TX,member
+704,no,house,Kevin Brady,R,RepKevinBrady,TX,member
+705,yes,house,Kevin Brady,R,bradyfortexas,TX,member
+706,no,house,Lamar Smith,R,LamarSmithTX21,TX,member
+707,yes,house,Lamar Smith,R,TexansforLamar,TX,member
+708,no,house,Lloyd Doggett,D,RepLloydDoggett,TX,member
+709,yes,house,Lloyd Doggett,D,LloydDoggettTX,TX,member
+710,no,house,Louie Gohmert,R,replouiegohmert,TX,member
+711,yes,house,Louie Gohmert,R,LouieGohmertTX1,TX,member
+712,no,house,Mac Thornberry,R,MacTXPress,TX,member
+713,yes,house,Mac Thornberry,R,MacThornberry,TX,member
+714,no,house,Mark Veasey,D,RepVeasey,TX,member
+715,yes,house,Mark Veasey,D,MarcVeasey,TX,member
+716,no,house,Michael C. Burgess,R,michaelcburgess,TX,member
+717,no,house,Michael McCaul,R,RepMcCaul,TX,member
+718,yes,house,Michael McCaul,R,McCaulforTexas,TX,member
+719,no,house,Mike Conaway,R,ConawayTX11,TX,member
+720,no,house,Pete Olson,R,RepPeteOlson,TX,member
+721,yes,house,Pete Olson,R,PeteOlson,TX,member
+722,no,house,Pete Sessions,R,PeteSessions,TX,member
+723,yes,house,Pete Sessions,R,SessionsforTX32,TX,member
+724,no,house,Randy Weber,R,TXRandy14,TX,member
+725,yes,house,Randy Weber,R,WeberforTexas,TX,member
+726,no,house,Roger Williams,R,RepRWilliams,TX,member
+727,yes,house,Roger Williams,R,RogerWilliamsTX,TX,member
+728,no,house,Sam Johnson,R,SamsPressShop,TX,member
+729,no,house,Sheila Jackson Lee,D,JacksonLeeTX18,TX,member
+730,yes,house,Sheila Jackson Lee,D,sjl4hrc,TX,member
+731,no,house,Ted Poe,R,JudgeTedPoe,TX,member
+732,no,house,Vicente Gonzalez,D,RepGonzalez,TX,member
+733,no,house,Will Hurd,R,HurdOnTheHill,TX,member
+734,yes,house,Will Hurd,R,WillHurd,TX,member
+735,no,house,Chris Stewart,R,RepChrisStewart,UT,member
+736,yes,house,Chris Stewart,R,StewartforUtah,UT,member
+737,no,house,Mia Love,R,RepMiaLove,UT,member
+738,yes,house,Mia Love,R,MiaBLove,UT,member
+739,yes,house,Rob Bishop,R,RobBishopUT,UT,member
+740,no,house,Barbara Comstock,R,RepComstock,VA,member
+741,yes,house,Barbara Comstock,R,BarbaraComstock,VA,member
+742,no,house,Bob Goodlatte,R,RepGoodlatte,VA,member
+743,yes,house,Bob Goodlatte,R,BobGoodlatte6,VA,member
+744,no,house,Bobby Scott,D,BobbyScott,VA,member
+745,yes,house,Bobby Scott,D,BobbyScott4VA3,VA,member
+746,no,house,Dave Brat,R,RepDaveBrat,VA,member
+747,yes,house,Dave Brat,R,DaveBratVA7th,VA,member
+748,no,house,Don Beyer,D,RepDonBeyer,VA,member
+749,yes,house,Don Beyer,D,DonBeyerVA,VA,member
+750,no,house,Donald McEachin,D,RepMcEachin,VA,member
+751,yes,house,Donald McEachin,D,Donald_McEachin,VA,member
+752,no,house,Gerry Connolly,D,GerryConnolly,VA,member
+753,yes,house,Gerry Connolly,D,ElectConnolly,VA,member
+754,no,house,Morgan Griffith,R,RepMGriffith,VA,member
+755,yes,house,Morgan Griffith,R,MorganGriffith,VA,member
+756,no,house,Rob Wittman,R,RobWittman,VA,member
+757,yes,house,Rob Wittman,R,ReElectWittman,VA,member
+758,no,house,Scott Taylor,R,RepScottTaylor,VA,member
+759,yes,house,Scott Taylor,R,Scotttaylorva,VA,member
+760,no,house,Tom Garrett Jr.,R,Rep_Tom_Garrett,VA,member
+761,yes,house,Tom Garrett Jr.,R,GarrettforVA,VA,member
+762,no,house,Stacey Plaskett,D,StaceyPlaskett,VI,member
+763,no,house,Peter Welch,D,PeterWelch,VT,member
+764,yes,house,Peter Welch,D,WelchForVT,VT,member
+765,no,house,Adam Smith,D,RepAdamSmith,WA,member
+766,yes,house,Adam Smith,D,electadamsmith,WA,member
+767,no,house,Cathy McMorris Rodgers,R,cathymcmorris,WA,member
+768,yes,house,Cathy McMorris Rodgers,R,TeamCMR,WA,member
+769,no,house,Dan Newhouse,R,RepNewhouse,WA,member
+770,no,house,Dave Reichert,R,davereichert,WA,member
+771,yes,house,Dave Reichert,R,TeamReichert,WA,member
+772,no,house,Denny Heck,D,RepDennyHeck,WA,member
+773,yes,house,Denny Heck,D,DennyHeck,WA,member
+774,no,house,Derek Kilmer,D,RepDerekKilmer,WA,member
+775,yes,house,Derek Kilmer,D,DerekKilmer,WA,member
+776,no,house,Jaime Herrera Beutler,R,HerreraBeutler,WA,member
+777,yes,house,Jaime Herrera Beutler,R,JaimeLHerrera,WA,member
+778,no,house,Pramila Jayapal,D,RepJayapal,WA,member
+779,yes,house,Pramila Jayapal,D,PramilaJayapal,WA,member
+780,no,house,Rick Larsen,D,RepRickLarsen,WA,member
+781,no,house,Suzan DelBene,D,RepDelBene,WA,member
+782,yes,house,Suzan DelBene,D,SuzanDelBene,WA,member
+783,no,house,Glenn Grothman,R,RepGrothman,WI,member
+784,yes,house,Glenn Grothman,R,GrothmanforWI,WI,member
+785,no,house,Gwen Moore,D,RepGwenMoore,WI,member
+786,yes,house,Gwen Moore,D,Gwen4Congress,WI,member
+787,no,house,Jim Sensenbrenner,R,JimPressOffice,WI,member
+788,no,house,Mark Pocan,D,repmarkpocan,WI,member
+789,yes,house,Mark Pocan,D,MarkPocan,WI,member
+790,no,house,Mike Gallagher,R,RepGallagher,WI,member
+791,no,house,Paul Ryan,R,SpeakerRyan,WI,member
+792,no,house,Paul Ryan,R,PRyan,WI,member
+793,no,house,Ron Kind,D,RepRonKind,WI,member
+794,yes,house,Ron Kind,D,KindforCongress,WI,member
+795,no,house,Sean Duffy,R,RepSeanDuffy,WI,member
+796,yes,house,Sean Duffy,R,Duffy4Wisconsin,WI,member
+797,no,house,Alex Mooney,R,RepAlexMooney,WV,member
+798,yes,house,Alex Mooney,R,MooneyforWV,WV,member
+799,no,house,David McKinley,R,RepMcKinley,WV,member
+800,yes,house,David McKinley,R,mckinley4cong,WV,member
+801,no,house,Evan Jenkins,R,RepEvanJenkins,WV,member
+802,yes,house,Evan Jenkins,R,EvanJenkinsWV,WV,member
+803,no,house,Liz Cheney,R,RepLizCheney,WY,member
+804,yes,house,Liz Cheney,R,Liz_Cheney,WY,member
+805,no,senate,Dan Sullivan,R,SenDanSullivan,AK,member
+806,yes,senate,Dan Sullivan,R,DanSullivan2014,AK,member
+807,no,senate,Lisa Murkowski,R,lisamurkowski,AK,member
+808,yes,senate,Lisa Murkowski,R,LisaForSenate,AK,member
+809,no,senate,Luther Strange,R,SenatorStrange,AL,member
+810,yes,senate,Luther Strange,R,lutherstrange,AL,member
+811,no,senate,Richard Shelby,R,SenShelby,AL,member
+812,yes,senate,Richard Shelby,R,ShelbyForSenate,AL,member
+813,no,senate,John Boozman,R,JohnBoozman,AR,member
+814,yes,senate,John Boozman,R,Boozman4AR,AR,member
+815,no,senate,Tom Cotton,R,SenTomCotton,AR,member
+816,yes,senate,Tom Cotton,R,TomCottonAR,AR,member
+817,no,senate,Jeff Flake,R,JeffFlake,AZ,member
+818,yes,senate,Jeff Flake,R,FlakeforSenate,AZ,member
+819,yes,senate,Jeff Flake,R,TeamFlake,AZ,member
+820,no,senate,John McCain,R,SenJohnMcCain,AZ,member
+821,yes,senate,John McCain,R,TeamMcCain,AZ,member
+822,no,senate,Dianne Feinstein,D,SenFeinstein,CA,member
+823,yes,senate,Dianne Feinstein,D,DianneFeinstein,CA,member
+824,no,senate,Kamala Harris,D,SenKamalaHarris,CA,member
+825,yes,senate,Kamala Harris,D,KamalaHarris,CA,member
+826,no,senate,Cory Gardner,R,SenCoryGardner,CO,member
+827,no,senate,Michael Bennet,D,SenBennetCO,CO,member
+828,yes,senate,Michael Bennet,D,BennetForCO,CO,member
+829,no,senate,Chris Murphy,D,SenMurphyOffice,CT,member
+830,yes,senate,Chris Murphy,D,ChrisMurphyCT,CT,member
+831,no,senate,Richard Blumenthal,D,SenBlumenthal,CT,member
+832,yes,senate,Richard Blumenthal,D,DickBlumenthal,CT,member
+833,no,senate,Chris Coons,D,SenCoonsOffice,DE,member
+834,yes,senate,Chris Coons,D,ChrisCoons,DE,member
+835,no,senate,Tom Carper,D,SenatorCarper,DE,member
+836,yes,senate,Tom Carper,D,TomCarperforDE,DE,member
+837,no,senate,Bill Nelson,D,SenBillNelson,FL,member
+838,yes,senate,Bill Nelson,D,NelsonForSenate,FL,member
+839,no,senate,Marco Rubio,R,SenRubioPress,FL,member
+840,yes,senate,Marco Rubio,R,marcorubio,FL,member
+841,no,senate,David Perdue,R,sendavidperdue,GA,member
+842,yes,senate,David Perdue,R,Perduesenate,GA,member
+843,no,senate,Johnny Isakson,R,SenatorIsakson,GA,member
+844,yes,senate,Johnny Isakson,R,JohnnyIsakson,GA,member
+845,no,senate,Brian Schatz,D,SenBrianSchatz,HI,member
+846,yes,senate,Brian Schatz,D,brianschatz,HI,member
+847,yes,senate,Brian Schatz,D,SchatzforHawaii,HI,member
+848,no,senate,Mazie Hirono,D,maziehirono,HI,member
+849,yes,senate,Mazie Hirono,D,mazieforhawaii,HI,member
+850,no,senate,Chuck Grassley,R,ChuckGrassley,IA,member
+851,no,senate,Chuck Grassley,R,GrassleyPress,IA,member
+852,no,senate,Joni Ernst,R,SenJoniErnst,IA,member
+853,yes,senate,Joni Ernst,R,joniernst,IA,member
+854,no,senate,Jim Risch,R,SenatorRisch,ID,member
+855,yes,senate,Jim Risch,R,JimRisch,ID,member
+856,no,senate,Mike Crapo,R,MikeCrapo,ID,member
+857,yes,senate,Mike Crapo,R,crapo4senate,ID,member
+858,no,senate,Dick Durbin,D,SenatorDurbin,IL,member
+859,yes,senate,Dick Durbin,D,DickDurbin,IL,member
+860,no,senate,Tammy Duckworth,D,SenDuckworth,IL,member
+861,yes,senate,Tammy Duckworth,D,TammyforIL,IL,member
+862,no,senate,Joe Donnelly,D,SenDonnelly,IN,member
+863,no,senate,Todd Young,R,SenToddYoung,IN,member
+864,yes,senate,Todd Young,R,ToddYoungIN,IN,member
+865,no,senate,Jerry Moran,R,JerryMoran,KS,member
+866,yes,senate,Jerry Moran,R,moranforkansas,KS,member
+867,no,senate,Pat Roberts,R,SenPatRoberts,KS,member
+868,yes,senate,Pat Roberts,R,PatRoberts,KS,member
+869,no,senate,Mitch McConnell,R,McConnellPress,KY,member
+870,no,senate,Mitch McConnell,R,SenateMajLdr,KY,member
+871,yes,senate,Mitch McConnell,R,Team_Mitch,KY,member
+872,no,senate,Rand Paul,R,RandPaul,KY,member
+873,yes,senate,Rand Paul,R,DrRandPaul,KY,member
+874,yes,senate,Bill Cassidy,R,BillCassidy,LA,member
+875,no,senate,John Kennedy,R,SenJohnKennedy,LA,member
+876,yes,senate,John Kennedy,R,JohnKennedyLA,LA,member
+877,no,senate,Ed Markey,D,SenMarkey,MA,member
+878,yes,senate,Ed Markey,D,EdMarkey,MA,member
+879,no,senate,Elizabeth Warren,D,SenWarren,MA,member
+880,yes,senate,Elizabeth Warren,D,elizabethforma,MA,member
+881,no,senate,Ben Cardin,D,SenatorCardin,MD,member
+882,yes,senate,Ben Cardin,D,BenCardinforMD,MD,member
+883,no,senate,Chris Van Hollen,D,ChrisVanHollen,MD,member
+884,yes,senate,Chris Van Hollen,D,VanHollenForMD,MD,member
+885,no,senate,Angus King,I,SenAngusKing,ME,member
+886,yes,senate,Angus King,I,AngusKing2018,ME,member
+887,no,senate,Susan Collins,R,SenatorCollins,ME,member
+888,no,senate,Debbie Stabenow,D,SenStabenow,MI,member
+889,yes,senate,Debbie Stabenow,D,stabenow,MI,member
+890,no,senate,Gary Peters,D,SenGaryPeters,MI,member
+891,yes,senate,Gary Peters,D,Peters4Michigan,MI,member
+892,no,senate,Al Franken,D,SenFranken,MN,member
+893,yes,senate,Al Franken,D,alfranken,MN,member
+894,yes,senate,Amy Klobuchar,D,amyklobuchar,MN,member
+895,no,senate,Claire McCaskill,D,McCaskillOffice,MO,member
+896,yes,senate,Claire McCaskill,D,clairecmc,MO,member
+897,yes,senate,Claire McCaskill,D,McCaskill4MO,MO,member
+898,no,senate,Roy Blunt,R,RoyBlunt,MO,member
+899,no,senate,Roy Blunt,R,RoyBluntPress,MO,member
+900,yes,senate,Roy Blunt,R,RoyBluntMO,MO,member
+901,yes,senate,Roy Blunt,R,BluntBrigade,MO,member
+902,no,senate,Roger Wicker,R,SenatorWicker,MS,member
+903,yes,senate,Roger Wicker,R,RogerWicker,MS,member
+904,no,senate,Thad Cochran,R,SenThadCochran,MS,member
+905,no,senate,Jon Tester,D,SenatorTester,MT,member
+906,yes,senate,Jon Tester,D,jontester,MT,member
+907,no,senate,Steve Daines,R,SteveDaines,MT,member
+908,yes,senate,Steve Daines,R,DainesforMT,MT,member
+909,no,senate,Richard Burr,R,SenatorBurr,NC,member
+910,yes,senate,Richard Burr,R,BurrForSenate,NC,member
+911,no,senate,Thom Tillis,R,SenThomTillis,NC,member
+912,yes,senate,Thom Tillis,R,ThomTillis,NC,member
+913,no,senate,Heidi Heitkamp,D,SenatorHeitkamp,ND,member
+914,yes,senate,Heidi Heitkamp,D,Heidi4ND,ND,member
+915,no,senate,John Hoeven,R,SenJohnHoeven,ND,member
+916,yes,senate,John Hoeven,R,hoeven4senate,ND,member
+917,no,senate,Ben Sasse,R,SenSasse,NE,member
+918,yes,senate,Ben Sasse,R,BenSasse,NE,member
+919,no,senate,Deb Fischer,R,SenatorFischer,NE,member
+920,yes,senate,Deb Fischer,R,DebSFischer,NE,member
+921,yes,senate,Deb Fischer,R,DebFischerNE,NE,member
+922,no,senate,Jeanne Shaheen,D,SenatorShaheen,NH,member
+923,yes,senate,Jeanne Shaheen,D,JeanneShaheen,NH,member
+924,no,senate,Maggie Hassan,D,SenatorHassan,NH,member
+925,yes,senate,Maggie Hassan,D,Maggie_Hassan,NH,member
+926,no,senate,Bob Menendez,D,SenatorMenendez,NJ,member
+927,yes,senate,Bob Menendez,D,Menendez4NJ,NJ,member
+928,no,senate,Cory Booker,D,SenBookerOffice,NJ,member
+929,no,senate,Cory Booker,D,CoryBooker,NJ,member
+930,yes,senate,Cory Booker,D,Booker4Senate,NJ,member
+931,no,senate,Martin Heinrich,D,MartinHeinrich,NM,member
+932,yes,senate,Martin Heinrich,D,Heinrich4NM,NM,member
+933,no,senate,Tom Udall,D,SenatorTomUdall,NM,member
+934,yes,senate,Tom Udall,D,TomUdallPress,NM,member
+935,yes,senate,Tom Udall,D,tomudall,NM,member
+936,no,senate,Catherine Cortez Masto,D,SenCortezMasto,NV,member
+937,yes,senate,Catherine Cortez Masto,D,CatherineForNV,NV,member
+938,no,senate,Dean Heller,R,SenDeanHeller,NV,member
+939,yes,senate,Dean Heller,R,DeanHeller,NV,member
+940,no,senate,Chuck Schumer,D,SenSchumer,NY,member
+941,yes,senate,Chuck Schumer,D,chuckschumer,NY,member
+942,no,senate,Kirsten Gillibrand,D,SenGillibrand,NY,member
+943,no,senate,Rob Portman,R,senrobportman,OH,member
+944,no,senate,Rob Portman,R,PortmanPress,OH,member
+945,yes,senate,Rob Portman,R,robportman,OH,member
+946,no,senate,Sherrod Brown,D,SenSherrodBrown,OH,member
+947,yes,senate,Sherrod Brown,D,SherrodBrown,OH,member
+948,no,senate,James Lankford,R,SenatorLankford,OK,member
+949,yes,senate,James Lankford,R,jameslankford,OK,member
+950,no,senate,Jim Inhofe,R,InhofePress,OK,member
+951,no,senate,Jim Inhofe,R,JimInhofe,OK,member
+952,no,senate,Jeff Merkley,D,SenJeffMerkley,OR,member
+953,yes,senate,Jeff Merkley,D,JeffMerkley,OR,member
+954,no,senate,Ron Wyden,D,RonWyden,OR,member
+955,no,senate,Ron Wyden,D,WydenPress,OR,member
+956,yes,senate,Ron Wyden,D,WydenForOregon,OR,member
+957,no,senate,Bob Casey Jr.,D,SenBobCasey,PA,member
+958,yes,senate,Bob Casey Jr.,D,Bob_Casey,PA,member
+959,no,senate,Pat Toomey,R,SenToomey,PA,member
+960,yes,senate,Pat Toomey,R,PatToomey,PA,member
+961,no,senate,Jack Reed,D,SenJackReed,RI,member
+962,yes,senate,Jack Reed,D,TomReedCongress,RI,member
+963,no,senate,Sheldon Whitehouse,D,SenWhitehouse,RI,member
+964,no,senate,Lindsey Graham,R,GrahamBlog,SC,member
+965,no,senate,Lindsey Graham,R,LindseyGrahamSC,SC,member
+966,no,senate,Tim Scott,R,SenatorTimScott,SC,member
+967,yes,senate,Tim Scott,R,votetimscott,SC,member
+968,no,senate,John Thune,R,SenJohnThune,SD,member
+969,yes,senate,John Thune,R,johnthune,SD,member
+970,no,senate,Mike Rounds,R,SenatorRounds,SD,member
+971,yes,senate,Mike Rounds,R,RoundsforSenate,SD,member
+972,no,senate,Bob Corker,R,SenBobCorker,TN,member
+973,yes,senate,Bob Corker,R,BobCorker,TN,member
+974,no,senate,Lamar Alexander,R,SenAlexander,TN,member
+975,no,senate,John Cornyn,R,JohnCornyn,TX,member
+976,yes,senate,John Cornyn,R,TeamCornyn,TX,member
+977,no,senate,Ted Cruz,R,SenTedCruz,TX,member
+978,yes,senate,Ted Cruz,R,TeamTedCruz,TX,member
+979,yes,senate,Ted Cruz,R,tedcruz,TX,member
+980,no,senate,Mike Lee,R,SenMikeLee,UT,member
+981,yes,senate,Mike Lee,R,MikeLeeforUtah,UT,member
+982,no,senate,Orrin Hatch,R,senorrinhatch,UT,member
+983,yes,senate,Orrin Hatch,R,OrrinHatch,UT,member
+984,no,senate,Mark Warner,D,MarkWarner,VA,member
+985,no,senate,Tim Kaine,D,SenKaineOffice,VA,member
+986,no,senate,Tim Kaine,D,timkaine,VA,member
+987,no,senate,Bernie Sanders,I,SenSanders,VT,member
+988,yes,senate,Bernie Sanders,I,BernieSanders,VT,member
+989,no,senate,Patrick Leahy,D,SenatorLeahy,VT,member
+990,yes,senate,Patrick Leahy,D,PatrickLeahy,VT,member
+991,no,senate,Maria Cantwell,D,SenatorCantwell,WA,member
+992,yes,senate,Maria Cantwell,D,MariaCantwell,WA,member
+993,no,senate,Patty Murray,D,PattyMurray,WA,member
+994,yes,senate,Patty Murray,D,MurrayCampaign,WA,member
+995,no,senate,Ron Johnson,R,SenRonJohnson,WI,member
+996,yes,senate,Ron Johnson,R,RonJohnsonWI,WI,member
+997,no,senate,Tammy Baldwin,D,SenatorBaldwin,WI,member
+998,yes,senate,Tammy Baldwin,D,tammybaldwin,WI,member
+999,no,senate,Joe Manchin,D,Sen_JoeManchin,WV,member
+1000,yes,senate,Joe Manchin,D,JoeManchinWV,WV,member
+1001,no,senate,Shelley Moore Capito,R,SenCapito,WV,member
+1002,yes,senate,Shelley Moore Capito,R,CapitoforWV,WV,member
+1003,no,senate,John Barrasso,R,SenJohnBarrasso,WY,member
+1004,yes,senate,John Barrasso,R,barrassoforwyo,WY,member
+1005,no,senate,Mike Enzi,R,SenatorEnzi,WY,member
+1006,yes,senate,Mike Enzi,R,EnziforWyo,WY,member
+1007,no,house,House Committee on Agriculture,R,HouseAgNews,,committee
+1008,no,house,House Committee on Appropriations,D,AppropsDems,,committee
+1009,no,house,House Committee on Appropriations,R,HouseAppropsGOP,,committee
+1010,no,house,House Committee on Armed Services,D,HASCDemocrats,,committee
+1011,no,house,House Committee on Armed Services,R,HASCRepublicans,,committee
+1012,no,house,House Committee on Education and the Workforce,D,edworkforcedems,,committee
+1013,no,house,House Committee on Education and the Workforce,R,EdWorkforce,,committee
+1014,no,house,House Committee on Energy and Commerce,D,EnergyCommerce,,committee
+1015,no,house,House Committee on Energy and Commerce,R,HouseCommerce,,committee
+1016,no,house,House Committee on Financial Services,D,FSCDems,,committee
+1017,no,house,House Committee on Financial Services,R,FinancialCmte,,committee
+1018,no,house,House Committee on Foreign Affairs,D,HFACDemocrats,,committee
+1019,no,house,House Committee on Foreign Affairs,R,HouseForeign,,committee
+1020,no,house,House Committee on Homeland Security,D,HomelandDems,,committee
+1021,no,house,House Committee on Homeland Security,R,HouseHomeland,,committee
+1022,no,house,House Committee on House Administration,D,HouseAdm_Dems,,committee
+1023,no,house,House Committee on House Administration,R,HouseAdmnGOP,,committee
+1024,no,house,House Committee on Natural Resources,D,NRDems,,committee
+1025,no,house,House Committee on Natural Resources,R,NatResources,,committee
+1026,no,house,House Committee on Oversight and Government Reform,D,OversightDems,,committee
+1027,no,house,House Committee on Oversight and Government Reform,R,GOPoversight,,committee
+1028,no,house,House Committee on Rules,R,RulesReps,,committee
+1029,no,house,"House Committee on Science, Space, and Technology",D,SciCmteDems,,committee
+1030,no,house,"House Committee on Science, Space, and Technology",R,HouseScience,,committee
+1031,no,house,House Committee on Small Business,R,HouseSmallBiz,,committee
+1032,no,house,House Committee on Transportation and Infrastructure,D,TransportDems,,committee
+1033,no,house,House Committee on Transportation and Infrastructure,R,Transport,,committee
+1034,no,house,House Committee on Veterans' Affairs,D,VetAffairsDems,,committee
+1035,no,house,House Committee on Veterans' Affairs,R,HouseVetAffairs,,committee
+1036,no,house,House Committee on Ways and Means,D,WaysMeansCmte,,committee
+1037,no,house,House Committee on Ways and Means,R,WaysandMeansGOP,,committee
+1038,no,house,House Committee on the Budget,D,HouseBudgetDems,,committee
+1039,no,house,House Committee on the Budget,R,housebudgetGOP,,committee
+1040,no,house,House Committee on the Judiciary,D,HouseJudDems,,committee
+1041,no,house,House Committee on the Judiciary,R,HouseJudiciary,,committee
+1042,no,joint,Joint Committee on Taxation,,jctgov,,committee
+1043,no,joint,Joint Economic Committee,D,JECDems,,committee
+1044,no,joint,Joint Economic Committee,R,JECRepublicans,,committee
+1045,no,senate,"Senate Committee on Agriculture, Nutrition, and Forestry",R,SenateAgGOP,,committee
+1046,no,senate,Senate Committee on Appropriations,D,SenateApprops,,committee
+1047,no,senate,Senate Committee on Armed Services,R,SASCMajority,,committee
+1048,no,senate,"Senate Committee on Banking, Housing, and Urban Affairs",R,BankingGOP,,committee
+1049,no,senate,"Senate Committee on Commerce, Science, and Transportation",R,SenateCommerce,,committee
+1050,no,senate,Senate Committee on Energy and Natural Resources,D,EnergyDems,,committee
+1051,no,senate,Senate Committee on Energy and Natural Resources,R,EnergyGOP,,committee
+1052,no,senate,Senate Committee on Environment and Public Works,D,EPWDems,,committee
+1053,no,senate,Senate Committee on Environment and Public Works,R,EPWGOP,,committee
+1054,no,senate,Senate Committee on Finance,R,GOPSenFinance,,committee
+1055,no,senate,"Senate Committee on Health, Education, Labor, and Pensions",R,GOPHELP,,committee
+1056,no,senate,Senate Committee on Indian Affairs,R,IndianCommittee,,committee
+1057,no,senate,Senate Committee on Small Business and Entrepreneurship,R,SmallBizCmte,,committee
+1058,no,senate,Senate Committee on Veterans' Affairs,R,VAChair,,committee
+1059,no,senate,Senate Committee on the Budget,R,BudgetGOP,,committee
+1060,no,senate,Senate Committee on the Judiciary,R,senjudiciary,,committee
+1061,no,senate,Senate Special Committee on Aging,R,SenateAging,,committee
+1062,yes,house,Democrats,D,DemCloakroom,,party
+1063,no,house,Democrats,D,HouseDemocrats,,party
+1064,yes,house,Democrats,D,dccc,,party
+1065,no,house,Republicans,R,GOPEspanol,,party
+1066,no,house,Republicans,R,GOPpolicy,,party
+1067,no,house,Republicans,R,HouseGOP,,party
+1068,no,house,Republicans,R,RepCloakroom,,party
+1069,yes,house,Republicans,R,NRCC,,party
+1070,no,senate,Democrats,D,DSenFloor,,party
+1071,no,senate,Democrats,D,SenateDems,,party
+1072,yes,senate,Democrats,D,dscc,,party
+1073,no,senate,Republicans,R,SenateGOP,,party
+1074,no,senate,Republicans,R,SenateRPC,,party
+1075,no,senate,Republicans,R,senategopfloor,,party
+1076,yes,senate,Republicans,R,NRSC,,party
